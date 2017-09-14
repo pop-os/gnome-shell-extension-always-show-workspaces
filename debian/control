@@ -1,0 +1,13 @@
+Source: gnome-shell-extension-always-show-workspaces
+Section: gnome
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10), gettext, libglib2.0-bin
+Standards-Version: 3.9.8
+Homepage: https://github.com/system76/gnome-shell-extension-always-show-workspaces
+Vcs-Git: https://github.com/system76/gnome-shell-extension-always-show-workspaces.git
+
+Package: gnome-shell-extension-always-show-workspaces
+Architecture: all
+Depends: gnome-shell (>= 3.25), ${misc:Depends}
+Description: Gnome-shell extension to always show workspaces in overview

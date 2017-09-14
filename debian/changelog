@@ -1,0 +1,5 @@
+gnome-shell-extension-always-show-workspaces (0.1.0) artful; urgency=medium
+
+  * Initial release.
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 14 Sep 2017 13:42:43 -0600
